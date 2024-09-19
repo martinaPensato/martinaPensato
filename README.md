@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-Embarking on a quest to master the art of code. My journey, shaped by various experiences, now finds me immersed in HTML, CSS, JavaScript, and React for Front-end Development. Crafting user-friendly interfaces is my passion, and I'm excited to contribute to the ever-evolving world of web development. Coding, to me, is not just a task; it's problem-solving, overcoming challenges, and a perpetual learning journey! I'm actively seeking opportunities as a Front-end Developer, I'm open to insights, mentorship, or exciting beginner-level positions. Let's connect and explore the world of coding together!
-
 * 🌍  I'm based in Rome, Italy
 * ✉️  You can contact me at [martina.pensato.mp@gmail.com](mailto:martina.pensato.mp@gmail.com)
 
